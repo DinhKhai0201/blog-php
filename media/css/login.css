@@ -1,0 +1,15 @@
+.form-login {
+    margin: 0 auto;
+    background-color: azure;
+    width: 50%;
+}
+.form-group {
+	margin-top: 50px;
+}
+p {
+	color: red;
+}
+.register-button {
+	color: red;
+}
+

@@ -1,0 +1,15 @@
+.success {
+    text-align: center;
+    font-size: 30px;
+    color:green;
+    padding: 50px;
+}
+.return-home {
+    font-size: 15px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.a-fix {
+    padding: 5px;
+    text-align: center;
+}
